@@ -2,7 +2,7 @@
 #### I am Web Developer
 I am a engineering student from IPN, passionate for web developer, web designed and the application of web technologies in daily life like the IoT
 
-Skills: C / C++ / C# / PYTHON / SQL / HTML / CSS /ASSEMBLER
+Skills: C / C++ / C# / PHP / PYTHON / SQL / HTML / CSS /ASSEMBLER
 
 
 
